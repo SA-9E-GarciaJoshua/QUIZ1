@@ -1,0 +1,17 @@
+body{
+
+	background-color: skyblue;
+
+
+}
+
+.img-container{
+	max-width: 200px;
+	padding:10px;
+	max-height:800px;
+
+}
+
+img{
+	width:150px;
+}
